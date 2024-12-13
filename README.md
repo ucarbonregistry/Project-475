@@ -12,6 +12,28 @@ used in off-site landscaping, gardening or tree
 plantations/forests activity are also eligible 
 under this Scope.
 
+Effluent and Water Recovery Management: The CETP handled an average inflow of 2497 m³/day, 50% 
+of the design capacity. Recovered water for member units varied between 86% and 95% of the effluent 
+flow, improving water reuse efficiency. 
+These interventions collectively enhanced the CETP’s capacity, optimized water recovery, and ensured 
+efficient brine management, leading to improved operational performance and environmental 
+sustainability. 
+
+The project activity hence achieves the sustainable management and efficient use of India’s natural 
+resources since the PP had the option to install bore wells that would have depleted the local 
+groundwater resources and/or continued to use existing drinking water resources in the surrounding 
+area. The PP has instead intervened and chosen to treat and reuse ETP effluent voluntarily at significant 
+costs, thus saving millions of liters of safe drinking water for the city. 
+
+Increase in population density and improvement in quality of life has resulted in an increase in demand 
+for natural resources like water. Groundwater being the major source of water supply catering to about 
+85% of rural water supply, the stress on groundwater is ever increasing. It has resulted in overexploitation of the resources at places. The situation demands a reorientation of the strategy for its 
+development and management. 
+The intervention of the PP has had a direct impact on the water security of the area. Over-development 
+of the ground water resources results in declining ground water levels, shortage in water supply, 
+intrusion of saline water in coastal areas and increased pumping lifts necessitating deepening of ground 
+water structures and increase in power costs. 
+
 This project activity involves treating and reusing wastewater. It doesn’t include any land-use practices. 
 Also, this is an industrial process designed with technical requirements and following the specified 
 norms of the local pollution control board. Hence, the project activity does not harm any land and 
