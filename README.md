@@ -130,5 +130,77 @@ Through this integrated approach, the Kunnankalpalayam CETP effectively manages 
 while recovering valuable resources, making it a model for sustainable industrial wastewater treatment. 
 The facility's design ensures that water quality standards are met while maximizing the recovery and 
 reuse of valuable materials, contributing to both environmental protection and resource conservation. 
+_____________
+ISSUE DATE: 10/04/2025
+
+MP-01 Period: 201-2023
+
+qty: 4011802 RoUs
+__________
+Serial Number: 0001-000001-253856-UCR-RoU-IN-475-01012014-31122014
+
+Vintage Year: 2014
+
+Quantity: 253856
+____________
+Serial Number: 0001-253857-526599-UCR-RoU-IN-475-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 272743
+__________
+Serial Number: 0001-526600-828532-UCR-RoU-IN-475-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 301933
+_______
+Serial Number: 0001-828533-1158213-UCR-RoU-IN-475-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 329681
+________
+Serial Number: 0001-1158214-1495976-UCR-RoU-IN-475-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 337763
+___________
+Serial Number: 0001-1495977-1911023-UCR-RoU-IN-475-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 415047
+______
+Serial Number: 0001-1911024-2283688-UCR-RoU-IN-475-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 372665
+___________
+Serial Number: 0001-2283689-2834068-UCR-RoU-IN-475-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 550380
+___________
+Serial Number: 0001-2834069-3364540-UCR-RoU-IN-475-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 530472
+___________
+Serial Number: 0001-3364541-4011802-UCR-RoU-IN-475-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 647262
+___________
+
+
+
+
+
 
 
